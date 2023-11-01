@@ -1,4 +1,4 @@
-# fartscroll.js
+# fartissupahweird.js
 
 Everyone farts. And now your web pages can too.
 
@@ -6,7 +6,7 @@ _Now with 100% less jQuery! (Sorry, jQuery, we still love you)_
 
 ### Setup:
 
-1. Include "fartscroll.js" in your page. (You can use the latest from our CDN: [//code.onion.com/fartscroll.js](http://code.onion.com/fartscroll.js))
+1. Include "fartissupahweird.js" in your page. (You can use the latest from our CDN: [//code.onion.com/fartscroll.js](http://code.onion.com/fartscroll.js))
 2. Initialize the fartscroll plugin once the DOM has loaded:
 
 ```javascript
